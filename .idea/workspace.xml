@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="203619e2-ef45-4155-a014-66783f614672" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../11-05/.idea/11-05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11-05/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11-05/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11-05/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11-05/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11-05/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JS 11.3.2020/.idea/JS 11.3.2020.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JS 11.3.2020/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JS 11.3.2020/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JS 11.3.2020/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JS 11.3.2020/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JS 11.3.2020/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JS 11.3.2020/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../uzduotis1/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../uzduotis1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../uzduotis1/.idea/uzduotis1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../uzduotis1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../uzduotis1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../uzduotis1/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1k67fKb7UMucGecUgTBNCApeKqi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="203619e2-ef45-4155-a014-66783f614672" name="Default Changelist" comment="" />
+      <created>1605009288925</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605009288925</updated>
+      <workItem from="1605009289949" duration="32000" />
+      <workItem from="1605130726192" duration="2020000" />
+      <workItem from="1605163594912" duration="31000" />
+      <workItem from="1605163722361" duration="2594000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1032" y="253" key="Vcs.Push.Dialog.v2" timestamp="1605166183041">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1032" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605166183041" />
+    <state x="1257" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605166147989">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1257" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605166147989" />
+    <state x="1103" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1605164267488">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1103" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1605164267488" />
+  </component>
+</project>
