@@ -38,5 +38,32 @@ function randomImg() {
             e.target.src = 'images/2.jpg';
         }
     }
-    console.log(myImg);
+    //rodymas konsolei
+    let divShow = document.createElement('div');
+    let showButton = document.createElement('button');
+    divShow.className = 'col-x1-6';
+    divShow.id ='showbtn';
+    showButton.innerHTML = 'Parodyti išsaugotus';
+    showButton.id = 'showButton';
+    document.getElementById('btn')
+    document.getElementById('showbtn')
+
+    const showBtn = document.querySelector('#showButton');
+
+    showBtn.addEventListener('click',showSave);
+
+    function showSave(){
+         if (document.querySelector('img')!==0){
+             const s = localStorage.getItem('saved');
+             console.log(s);
+             for (i = 0; i < 10; i++){
+                 let replaceImg = document.createElement("img");
+                 replaceImg.id = 'id';
+                 replaceImg.src=JSON.parse(localStorage.getItem('saved'))[i];
+                 replaceImg.alt=[i+1] + '-oji foto';
+                 document.getElementById('show');
+             }
+         }
+    }
+
 }

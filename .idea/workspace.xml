@@ -31,19 +31,7 @@
       <change afterPath="$PROJECT_DIR$/../uzduotis1/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../uzduotis1/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../uzduotis1/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/9.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
     </list>
@@ -99,6 +87,8 @@
       <workItem from="1605130726192" duration="2020000" />
       <workItem from="1605163594912" duration="31000" />
       <workItem from="1605163722361" duration="2594000" />
+      <workItem from="1605166496868" duration="1212000" />
+      <workItem from="1605191997129" duration="598000" />
     </task>
     <servers />
   </component>
